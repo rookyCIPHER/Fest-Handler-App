@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "852545648688",
+    "project_id": "fest-handler",
+    "storage_bucket": "fest-handler.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:852545648688:android:e61419aaf25576656a95f5",
+        "android_client_info": {
+          "package_name": "com.example.festhandler"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "852545648688-i53scoe00d0dgv6h4c6jqqgru035cl5b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjCL_X8HBZk3-jZPVhLkDLpDEfzKr2fBU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "852545648688-i53scoe00d0dgv6h4c6jqqgru035cl5b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
